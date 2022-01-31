@@ -1,0 +1,175 @@
+
+
+
+/* titulos */
+h1{
+   text-align: center;
+   font-size: 100px;
+}
+h2{
+   font-size: 100px;
+}
+
+h3{
+   color: black;
+   font-size: 50px;
+}
+
+p{
+   color: black;
+}
+h5{
+   font-size: 20px;
+}
+/* titulos */
+
+
+/* navegador */
+.navbar{
+   background: rgb(9,0,136);
+   background: -moz-linear-gradient(270deg, rgba(9,0,136,1) 16%, rgba(255,0,0,1) 45%, rgba(0,3,177,1) 100%);
+   background: -webkit-linear-gradient(270deg, rgba(9,0,136,1) 16%, rgba(255,0,0,1) 45%, rgba(0,3,177,1) 100%);
+   background: linear-gradient(270deg, rgba(9,0,136,1) 16%, rgba(255,0,0,1) 45%, rgba(0,3,177,1) 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#090088",endColorstr="#0003b1",GradientType=1);
+}
+/* navegador */
+
+
+/* carrusel */
+#carouselExampleCaptions{
+   text-align: center;
+   font-size: 40px;
+   transform: scale(0.7);
+}
+.carousel {
+   position: relative;
+   bottom: 150px;
+}
+.carousel-inner{
+   border-radius: 50px;
+}
+/* carrusel */
+
+
+/* acordeon */
+.accordion-button{
+   color: black;
+   background: rgb(9,0,136);
+   background: -moz-linear-gradient(270deg, rgba(9,0,136,1) 16%, rgba(255,0,0,1) 45%, rgba(0,3,177,1) 100%);
+   background: -webkit-linear-gradient(270deg, rgba(9,0,136,1) 16%, rgba(255,0,0,1) 45%, rgba(0,3,177,1) 100%);
+   background: linear-gradient(270deg, rgba(9,0,136,1) 16%, rgba(255,0,0,1) 45%, rgba(0,3,177,1) 100%);
+}
+.accordion-item {
+   background-color: #0a58ca;
+   border: 1px solid rgba(0,0,0,.125);
+}
+/* acordeon */
+
+
+/* boton */
+.btn-primary {
+   color: rgb(0, 0, 0);
+   background-color: #003c97;
+   border-color: #0077ff;
+}
+.parrafo{
+   color: black;
+}
+/* boton */
+
+
+body{
+   color: #0000b8;
+   font-family: 'Bangers', cursive;
+   background: rgb(9,0,136);
+   background: -moz-linear-gradient(270deg, rgba(9,0,136,1) 16%, rgba(255,0,0,1) 45%, rgba(0,3,177,1) 100%);
+   background: -webkit-linear-gradient(270deg, rgba(9,0,136,1) 16%, rgba(255,0,0,1) 45%, rgba(0,3,177,1) 100%);
+   background: linear-gradient(270deg, rgba(9,0,136,1) 16%, rgba(255,0,0,1) 45%, rgba(0,3,177,1) 100%);
+   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#090088",endColorstr="#0003b1",GradientType=1);
+}
+
+
+/* columnas */
+#card{
+   position: relative;
+   bottom: 500px;
+   cursor: pointer;
+   transform: scale(0.7);
+   text-align: center;
+}
+.card {
+   background-color: rgb(0 0 0 / 25%);
+   background-clip: border-box;
+   border: 1px solid rgba(0,0,0,.125);
+   border-radius: 0.25rem;
+}
+#columna1:hover{
+   transform: scale(1.05);
+   transition: all 1s;}
+   
+#columna2:hover{
+   transform: scale(1.05);
+   transition: all 1s;}
+
+#columna3:hover{
+   transform: scale(1.05);
+   transition: all 1s;}
+      
+#columna4:hover{
+   transform: scale(1.05);
+   transition: all 1s;}
+
+#columna5:hover{
+    transform: scale(1.05);
+    transition: all 1s;}
+      
+#columna6:hover{
+    transform: scale(1.05);
+   transition: all 1s;}
+   
+#columna7:hover{
+   transform: scale(1.05);
+   transition: all 1s;}
+         
+#columna8:hover{
+   transform: scale(1.05);
+   transition: all 1s;}
+
+#columna9:hover{
+   transform: scale(1.05);
+   transition: all 1s;}
+        
+#columna10:hover{
+   transform: scale(1.05);
+   transition: all 1s;}
+     
+#columna11:hover{
+   transform: scale(1.05);
+   transition: all 1s;}
+           
+#columna12:hover{
+   transform: scale(1.05);
+   transition: all 1s;}
+   /* columnas */
+
+
+   /* pasapagina */
+.pagination{
+   position: relative;
+   bottom: 1000px;
+   justify-content: center;
+   
+}
+.page-link {
+   color: #fd0d0d;
+   text-decoration: none;
+   background-color: #084298;
+   border: 1px solid #000000;
+}
+.page-link:hover{
+   color: #1f00aa;
+   text-decoration: none;
+   background-color: #750000;
+   border: 1px solid #000000;
+}
+/* pasapagina */
